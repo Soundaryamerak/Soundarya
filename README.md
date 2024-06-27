@@ -28,6 +28,8 @@ I am an enthusiastic and passionate business consultant with over 4 years of div
 4. [**Sales & Spend Analysis (Pharma) Excel**](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/blob/main/README.md)
    Analysis of pharmaceutical sales data to identify trends and insights.
 
+## Certifications
+
 ## Professional Experience
 
 **Project Manager: Consultant, Simplon.co (Jul '19 - Apr '20)**
