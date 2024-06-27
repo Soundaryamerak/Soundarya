@@ -19,10 +19,10 @@ I am an enthusiastic and passionate business consultant with over 4 years of div
 1. [**Employee Analysis dashboard**](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/blob/main/README.md)
    - Building interactive dashboards and reports using SQL and PowerBI.
 
-2. [**Demand Planning (Logistics) - Python & Tableau**](./Demand_Planning_Python_Tableau)
+2. [**Demand Planning (Logistics) - Python & Tableau**](https://github.com/Soundaryamerak/Demand-planning-python-tableau-Logistics/blob/main/README.md)
    - Demand planning and forecasting using Python and visualizing results in Tableau.   
 
-3. [**Fraud Detection (Finance) - Python**](./Fraud_Detection_Python)
+3. [**Fraud Detection (Finance) - Python**](https://github.com/Soundaryamerak/Fraud-detection-Python-credit-card-transactions/blob/main/README.md)
    - Using Python to detect fraudulent transactions in datasets.
 
 4. [**Sales & Spend Analysis (Pharma) Excel**](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/blob/main/README.md)
