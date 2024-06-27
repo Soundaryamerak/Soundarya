@@ -16,16 +16,16 @@ I am an enthusiastic and passionate business consultant with over 4 years of div
 
 ## Projects 📂
 
-1. [**SQL and PowerBI**](./SQL_and_PowerBI)
+1. [**Employee Analysis dashboard**](./SQL_and_PowerBI)
    - Building interactive dashboards and reports using SQL and PowerBI.
 
-2. [**Demand Planning - Python & Tableau**](./Demand_Planning_Python_Tableau)
+2. [**Demand Planning (Logistics) - Python & Tableau**](./Demand_Planning_Python_Tableau)
    - Demand planning and forecasting using Python and visualizing results in Tableau.   
 
-3. [**Fraud Detection - Python**](./Fraud_Detection_Python)
+3. [**Fraud Detection (Finance) - Python**](./Fraud_Detection_Python)
    - Using Python to detect fraudulent transactions in datasets.
 
-4. [**Pharma Sales Excel**](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma)
+4. [**Sales & Spend Analysis (Pharma) Excel**](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma)
    Analysis of pharmaceutical sales data to identify trends and insights.
 
 ## Professional Experience
