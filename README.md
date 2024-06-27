@@ -16,7 +16,7 @@ I am an enthusiastic and passionate business consultant with over 4 years of div
 
 ## Projects 📂
 
-1. [**Employee Analysis dashboard**](./SQL_and_PowerBI)
+1. [**Employee Analysis dashboard**](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics)
    - Building interactive dashboards and reports using SQL and PowerBI.
 
 2. [**Demand Planning (Logistics) - Python & Tableau**](./Demand_Planning_Python_Tableau)
