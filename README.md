@@ -16,7 +16,7 @@ I am an enthusiastic and passionate business consultant with over 4 years of div
 
 ## Projects 📂
 
-1. [**Employee Analysis dashboard**](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics)
+1. [**Employee Analysis dashboard**](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/blob/main/README.md)
    - Building interactive dashboards and reports using SQL and PowerBI.
 
 2. [**Demand Planning (Logistics) - Python & Tableau**](./Demand_Planning_Python_Tableau)
@@ -25,7 +25,7 @@ I am an enthusiastic and passionate business consultant with over 4 years of div
 3. [**Fraud Detection (Finance) - Python**](./Fraud_Detection_Python)
    - Using Python to detect fraudulent transactions in datasets.
 
-4. [**Sales & Spend Analysis (Pharma) Excel**](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma)
+4. [**Sales & Spend Analysis (Pharma) Excel**](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/blob/main/README.md)
    Analysis of pharmaceutical sales data to identify trends and insights.
 
 ## Professional Experience
