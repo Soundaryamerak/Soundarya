@@ -2,8 +2,6 @@
 
 **Business Intelligence Consultant**
 
-![Profile views](https://komarev.com/ghpvc/?username=YourUsername&color=blue) ![Followers](https://img.shields.io/github/followers/YourUsername?label=Follow&style=social)
-
 ## SUMMARY 🧑‍💼
 I am an enthusiastic and passionate business consultant with over 4 years of diverse experience across the utilities, automotive, and social sectors. I specialize in business intelligence, data visualization, and business strategy, leveraging tools like Excel, Tableau, and Power BI, along with knowledge of SQL, Python, and ML models. My enthusiasm lies in leveraging data to visualize patterns, gain meaningful insights, and deliver impactful solutions that resonate with clients, contributing to smarter and more effective outcomes.
 
@@ -15,17 +13,18 @@ I am an enthusiastic and passionate business consultant with over 4 years of div
 - **Business**: Agile methods - Scrum, Kanban, Jira
 
 ## PROJECTS 📂
-1. [**Pharma Sales Excel**](./Pharma_Sales_Excel)
-   - Analysis of pharmaceutical sales data to identify trends and insights.
-   
-2. [**Fraud Detection - Python**](./Fraud_Detection_Python)
+
+1. [**SQL and PowerBI**](./SQL_and_PowerBI)
+   - Building interactive dashboards and reports using SQL and PowerBI.
+
+2. [**Demand Planning - Python & Tableau**](./Demand_Planning_Python_Tableau)
+   - Demand planning and forecasting using Python and visualizing results in Tableau.   
+
+3. [**Fraud Detection - Python**](./Fraud_Detection_Python)
    - Using Python to detect fraudulent transactions in datasets.
 
-3. [**Demand Planning - Python & Tableau**](./Demand_Planning_Python_Tableau)
-   - Demand planning and forecasting using Python and visualizing results in Tableau.
-
-4. [**SQL and PowerBI**](./SQL_and_PowerBI)
-   - Building interactive dashboards and reports using SQL and PowerBI.
+4. [**Pharma Sales Excel**](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma)
+   Analysis of pharmaceutical sales data to identify trends and insights.
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -54,5 +53,3 @@ I am an enthusiastic and passionate business consultant with over 4 years of div
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/soundarya-r-b5180a122/) or [Email](soundaryasiten@gmail.com).
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
