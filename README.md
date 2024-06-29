@@ -6,6 +6,8 @@
 
 **Phone & Whatsapp:** 9790963933
 
+[LinkedIn](https://www.linkedin.com/in/soundarya-r-b5180a122/)
+
 ## Summary
 I am an enthusiastic and passionate business consultant with over 4 years of diverse experience across the utilities, automotive, and social sectors. I specialize in business intelligence, data visualization, and business strategy, leveraging tools like Excel, Tableau, and Power BI, along with knowledge of SQL, Python, and ML models. My enthusiasm lies in leveraging data to visualize patterns, gain meaningful insights, and deliver impactful solutions that resonate with clients, contributing to smarter and more effective outcomes. My top strengths are Interpersonal communication and strong analyical & logical reasoning.
 
@@ -32,6 +34,10 @@ I am an enthusiastic and passionate business consultant with over 4 years of div
 
 ## Certifications
 
+[Agile project Management & Scrum methodology](https://www.udemy.com/certificate/UC-d17e8110-ba82-4366-85c5-cd34810da48e/)
+  
+[The business Intelligence Analyst Course 2024](https://www.udemy.com/certificate/UC-1cad10da-126c-4f29-8076-75fb6e28c7b8/)
+
 ## Professional Experience
 
 **Project Manager: Consultant, Simplon.co (Jul '19 - Apr '20)**
@@ -49,13 +55,3 @@ I am an enthusiastic and passionate business consultant with over 4 years of div
 ## Education 🎓
 - **MBA in Operations** - Symbiosis International University, 2018
 - **B.E. in Electronics & Instrumentation** - Anna University, 2014
-
-## Achievements
-- Winner of Area C2 and First Runner-up at Division C of District 120 Toastmasters speech contests, 2020
-- C1 Level (Advanced language skills) in IELTS 2020
-- CMAT 2016: 96.81th percentile, SNAP 2016: 96.86th percentile
-
-## CONTACT 📫
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/soundarya-r-b5180a122/) or [Email](soundaryasiten@gmail.com).
-
----
