@@ -5,7 +5,7 @@
 [Email](soundaryasiten@gmail.com). Phone No. 9790963933
 
 ## Summary
-I am an enthusiastic and passionate business consultant with over 4 years of diverse experience across the utilities, automotive, and social sectors. I specialize in business intelligence, data visualization, and business strategy, leveraging tools like Excel, Tableau, and Power BI, along with knowledge of SQL, Python, and ML models. My enthusiasm lies in leveraging data to visualize patterns, gain meaningful insights, and deliver impactful solutions that resonate with clients, contributing to smarter and more effective outcomes.
+I am an enthusiastic and passionate business consultant with over 4 years of diverse experience across the utilities, automotive, and social sectors. I specialize in business intelligence, data visualization, and business strategy, leveraging tools like Excel, Tableau, and Power BI, along with knowledge of SQL, Python, and ML models. My enthusiasm lies in leveraging data to visualize patterns, gain meaningful insights, and deliver impactful solutions that resonate with clients, contributing to smarter and more effective outcomes. My top strengths are Interpersonal communication and strong analyical & logical reasoning.
 
 
 ## Skill Set 🛠️
@@ -17,7 +17,7 @@ I am an enthusiastic and passionate business consultant with over 4 years of div
 ## Projects 📂
 
 1. [**Employee Analysis dashboard - SQL & PowerBI**](https://github.com/Soundaryamerak/Employee-Dashboard-SQL-PowerBI-Logistics/blob/main/README.md)
-   - Building interactive dashboards and reports using SQL and PowerBI.
+   - Creating PowerBI dashboards to understand Attrition and Gender Ratio on an employee database (in SQL)
 
 2. [**Demand Planning (Logistics) - Python & Tableau**](https://github.com/Soundaryamerak/Demand-planning-python-tableau-Logistics/blob/main/README.md)
    - Demand planning and forecasting using Python and visualizing results in Tableau.   
