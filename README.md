@@ -2,7 +2,9 @@
 
 **Business Intelligence Consultant**
 
-[Email](soundaryasiten@gmail.com). Phone No. 9790963933
+**Email:** [soundaryasiten@gmail.com](mailto:soundaryasiten@gmail.com)
+Phone No. 9790963933
+. Phone No. 9790963933
 
 ## Summary
 I am an enthusiastic and passionate business consultant with over 4 years of diverse experience across the utilities, automotive, and social sectors. I specialize in business intelligence, data visualization, and business strategy, leveraging tools like Excel, Tableau, and Power BI, along with knowledge of SQL, Python, and ML models. My enthusiasm lies in leveraging data to visualize patterns, gain meaningful insights, and deliver impactful solutions that resonate with clients, contributing to smarter and more effective outcomes. My top strengths are Interpersonal communication and strong analyical & logical reasoning.
