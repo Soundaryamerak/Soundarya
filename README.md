@@ -29,8 +29,8 @@ I am an enthusiastic and passionate business consultant with over 4 years of div
 3. [**Fraud Detection (Finance) - Python**](https://github.com/Soundaryamerak/Fraud-detection-Python-credit-card-transactions/blob/main/README.md)
    -Determining the best ML model for Fraud detection using Python
    
-5. [**Sales & Spend Analysis (Pharma) Excel**](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/blob/main/README.md)
-  - 2 mini projects using MS Excel, from open data sources in the pharmaceutical industry.
+4. [**Sales & Spend Analysis (Pharma) - Excel**](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/blob/main/README.md)
+   -2 mini projects using MS Excel, from open data sources in the pharmaceutical industry.
 
 ## Certifications
 
