@@ -24,7 +24,7 @@ I am an enthusiastic and passionate business consultant with over 4 years of div
    - Creating PowerBI dashboards to understand Attrition and Gender Ratio on an employee database (in SQL)
 
 2. [**Demand Planning (Logistics) - Python & Tableau**](https://github.com/Soundaryamerak/Demand-planning-python-tableau-Logistics/blob/main/README.md)
-   - Demand planning and forecasting using Python and visualizing results in Tableau.   
+   - Determining the ML model to best forecast daily demand for a Brazilian Logistics Company.
 
 3. [**Fraud Detection (Finance) - Python**](https://github.com/Soundaryamerak/Fraud-detection-Python-credit-card-transactions/blob/main/README.md)
    - Using Python to detect fraudulent transactions in datasets.
