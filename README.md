@@ -30,7 +30,7 @@ I am an enthusiastic and passionate business consultant with over 4 years of div
    -Determining the best ML model for Fraud detection using Python
    
 5. [**Sales & Spend Analysis (Pharma) Excel**](https://github.com/Soundaryamerak/Sales-spend-analysis-and-dashboard-Excel-Pharma/blob/main/README.md)
-   Analysis of pharmaceutical sales data to identify trends and insights.
+  - 2 mini projects using MS Excel, from open data sources in the pharmaceutical industry.
 
 ## Certifications
 
