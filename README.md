@@ -38,6 +38,8 @@ I am an enthusiastic and passionate business consultant with over 4 years of div
   
 [The business Intelligence Analyst Course 2024](https://www.udemy.com/certificate/UC-1cad10da-126c-4f29-8076-75fb6e28c7b8/)
 
+[AWS Cloud practitioner](30dc419a3fd009c3b524ee15b3fee10af20dcd591cf310684df9505722f26ecc)
+
 ## Professional Experience
 
 **Project Manager: Consultant, Simplon.co (Jul '19 - Apr '20)**
