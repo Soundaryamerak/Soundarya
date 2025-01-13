@@ -9,7 +9,7 @@
 **Phone & Whatsapp:** 9790963933
 
 ## Summary
-I am an enthusiastic and passionate business consultant with over 4 years of diverse experience across the utilities, automotive, and social sectors. I specialize in strategic planning, project management, stakeholder management, data analysis & visualization, leveraging tools like Excel, Tableau, and Power BI, along with knowledge of SQL, Python, and AI/ML models. My enthusiasm lies in leveraging data to visualize patterns, gain meaningful insights, and deliver impactful solutions that resonate with clients, contributing to smarter and more effective outcomes. My top strengths are Interpersonal communication and strong analytical & logical reasoning.
+I’m a logical & analytical Business Intelligence Analyst/Data Scientist over 5 years of experience spanning utilities, automotive, and IT industries.  I specialize in business intelligence, data visualization, and strategy while excelling in stakeholder management. Skilled with tools like Excel, Looker, Tableau, and Power BI, I also bring knowledge of SQL & Python to the table.
 
 
 ## Skill Set 🛠️
@@ -41,6 +41,11 @@ I am an enthusiastic and passionate business consultant with over 4 years of div
 [AWS Cloud practitioner](https://www.linkedin.com/learning/certificates/30dc419a3fd009c3b524ee15b3fee10af20dcd591cf310684df9505722f26ecc)
 
 ## Professional Experience
+**Data Analyst II, Twilio (Movate) (Aug 2024 - Present)**
+- Data extraction, Reporting, Analysis and Visualisation for Customer Intelligence - Process Efficiency Team.
+
+**Entrepreneur, E-Commerce Business (May '20 - May '22)**
+-Launched and managed an e-commerce business specializing in wellness and mental health products, overseeing end-to-end operations.
 
 **Project Manager: Consultant, Simplon.co (Jul '19 - Apr '20)**
 - Led strategic and operational development initiatives for educational projects in India, with a focus on KPI reporting and business solutions.
